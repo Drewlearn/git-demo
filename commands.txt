@@ -41,3 +41,8 @@ related to a project. It keeps track of the changes made over time.
 
 * git status
            - displays the current status of your file/folder
+
+* git log
+         -display the all the commits that were made
+*git log --oneline
+         -condensed version of git log
